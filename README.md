@@ -5,8 +5,14 @@ The creation of this repository was inspired by [Siraj Raval's challenge](https:
 I nervously accepted this challenge in addition to working full time and taking 6 hours of graduate courseowrk in the 2018 summer semester. I will use this repository to store code, jupyter notebook examples, and thought processes. 
 
 ## Topics Explored:
-Day 1)
-Day 2)
+Day 1. [Principal Component Analysis (PCA) and explained variance ratio](https://www.linkedin.com/feed/update/urn:li:activity:6421471671445647360)
+Day 2. [SparsePCA](https://www.linkedin.com/feed/update/urn:li:activity:6421890522410950656)
+Day 3. [Bag of Words](https://www.linkedin.com/feed/update/urn:li:activity:6422292934531514368)
+Day 4. [Tokenization & Vectorization time trials](https://www.linkedin.com/feed/update/urn:li:activity:6422632133264703488)
+Day 5. [Stemming and Lemmatizing with CountVectorizer, TfidfVectorizer, and HashingVectorizer](https://www.linkedin.com/feed/update/urn:li:activity:6422967354082230272)
+Day 6. [Development of visualization pipeline for ML](https://www.linkedin.com/feed/update/urn:li:activity:6423344745891790848)
+Day 7. [Big Data Visualization with Datashader](https://www.linkedin.com/feed/update/urn:li:activity:6423638989181325312)
+Day 8. []()
 
 ## List of Topics to Explore:
 
@@ -18,3 +24,13 @@ Day 2)
 * Efficient Use of Data Structures
 * Write computationally expensive parts in C++
 * Make good use of memory & caching
+* Multireading / multiprocessing in Python, Celery for parallel processing
+* Kernal PCA
+* Differences (pro/cons) between Stemming and Lemmatizing methods
+* PCA to display failure risk
+  - Lots / batches that take too long
+  - Determine coorinary value
+  - adjust threshold & critical thresholds
+* Producing Production Quality code
+* How tokenized data is used for ML algorithms
+* Use of predeveloped vocabularies like i2b2
