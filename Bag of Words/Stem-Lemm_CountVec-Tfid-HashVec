@@ -1,0 +1,59 @@
+import pandas as pd
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import TfidfVectorizer
+from nltk.stem.snowball import SnowballStemmer
+from nltk.stem import WordNetLemmatizer
+from sklearn.feature_extraction.text import HashingVectorizer
+df = pd.read_csv('gAlert_SNIPs2.csv',encoding = "ISO-8859-1")
+
+exclude = ['studi', 'study', 'phase', 'trial', 'iii', 'clinic', 'clinical','ii','result','data','nasdaq', 'press','compani','announc','com','ha','news','company']
+def wordFreq(vect,bag_of_words):
+    sum_words = bag_of_words.sum(axis=0)
+    words_freq = [(word, sum_words[0, idx]) for word, idx in vect.vocabulary_.items()
+                  if len(word) > 4 and word not in exclude]
+    return(sorted(words_freq, key=lambda x: x[1], reverse=True))
+
+stemmer = SnowballStemmer('english') #define stemmer
+dfStem=[' '.join([stemmer.stem(word) for word in text.split(' ')])
+          for text in df['Summary']]
+
+lemmer=WordNetLemmatizer() #define Lemmatizer
+dfLem=[' '.join([lemmer.lemmatize(word) for word in text.split(' ')])
+          for text in df['Summary']]
+
+# Stemmer & CountVector
+vect = CountVectorizer(analyzer="word", max_features=5000, stop_words='english',
+                       token_pattern=r'\b[a-zA-Z]{2,}\b')
+bag_of_words = vect.fit_transform(dfStem)
+print("Stem CountVect Feature Counts:\n{0}".format(wordFreq(vect,bag_of_words)))
+
+# Lemmatizer & CountVector
+vect = CountVectorizer(analyzer="word", max_features=5000, stop_words='english',
+                       token_pattern=r'\b[a-zA-Z]{2,}\b')
+bag_of_words = vect.fit_transform(dfLem)
+print("\n Lem CountVect Feature Counts:\n{0}".format(wordFreq(vect,bag_of_words)))
+
+# Stemmer & TfidfVectorizer
+vect = TfidfVectorizer(analyzer="word", max_features=5000, stop_words='english',
+                       token_pattern=r'\b[a-zA-Z]{2,}\b')
+bag_of_words = vect.fit_transform(dfStem)
+print("\n Stem TfidfVectorizer Feature Counts:\n{0}".format(wordFreq(vect,bag_of_words)))
+
+# Lemmatizer & TfidfVectorizer
+vect = TfidfVectorizer(analyzer="word", max_features=5000, stop_words='english',
+                       token_pattern=r'\b[a-zA-Z]{2,}\b')
+bag_of_words = vect.fit_transform(dfLem)
+print("\nLem TfidfVectorizer Feature Counts:\n{0}".format(wordFreq(vect,bag_of_words)))
+
+# Stemmer & HashingVectorizer
+vect = HashingVectorizer(analyzer="word", n_features=50, stop_words='english',
+                         token_pattern=r'\b[a-zA-Z]{2,}\b')
+hashVect = vect.fit_transform(dfStem)
+print("\n Stem HashingVectorizer Matrix Counts:\n{0}".format(hashVect.toarray()))
+
+# Lemmatizer & HashingVectorizer
+vect = HashingVectorizer(analyzer="word", n_features=50, stop_words='english',
+                         token_pattern=r'\b[a-zA-Z]{2,}\b')
+hashVect = vect.fit_transform(dfLem)
+print("\nLem HashingVectorizer Matrix:\n{0}".format(hashVect.toarray()))
+
