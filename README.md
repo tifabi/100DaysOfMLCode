@@ -6,8 +6,8 @@ I nervously accepted this challenge in addition to working full time and taking 
 
 ## Topics Explored:
 
-  Day 1 | 
-  Day 2 |
+  Day 1.  
+  Day 2. 
 
 ## List of Topics to Explore:
 
