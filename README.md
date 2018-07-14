@@ -19,7 +19,7 @@ Day 6 - July 12 | [Development of visualization pipeline for ML](https://www.lin
 
 Day 7 - July 13 | [Big Data Visualization with Datashader](https://www.linkedin.com/feed/update/urn:li:activity:6423638989181325312)
 
-Day 8 - July 14 | [t-SNE and Datashader](https://www.linkedin.com/feed/update/urn:li:activity:6424014404353822720)
+Day 8 - July 14 | [t-SNE and Datashader](https://www.linkedin.com/feed/update/urn:li:activity:6424014404353822720) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/Visualization/t-SNE_datashader.ipynb)
 
 ## List of Topics to Explore:
 
