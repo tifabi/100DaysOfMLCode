@@ -4,12 +4,12 @@
 
 I nervously accepted this challenge in addition to working full time and taking 6 hours of graduate courseowrk in the 2018 summer semester. I will use this repository to store code, jupyter notebook examples, and thought processes. 
 
-##Topics Explored:
+## Topics Explored:
 
-* Day 1 | 
-* Day 2 |
+  Day 1 | 
+  Day 2 |
 
-##List of Topics to Explore:
+## List of Topics to Explore:
 
 * PCA on Genetic Data - Gene Expression
 ** Create Jupyter Notebook foundation
