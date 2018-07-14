@@ -7,11 +7,11 @@ I nervously accepted this challenge in addition to working full time and taking 
 ## Topics Explored:
    Day 1 - July 7 | [Principal Component Analysis (PCA) and explained variance ratio](https://www.linkedin.com/feed/update/urn:li:activity:6421471671445647360)
    
-   Day 2 - July 8 | [SparsePCA](https://www.linkedin.com/feed/update/urn:li:activity:6421890522410950656)
+   Day 2 - July 8  | [SparsePCA](https://www.linkedin.com/feed/update/urn:li:activity:6421890522410950656)
    
-   Day 3 - July 9 | [Bag of Words](https://www.linkedin.com/feed/update/urn:li:activity:6422292934531514368)
+   Day 3 - July 9  | [Bag of Words](https://www.linkedin.com/feed/update/urn:li:activity:6422292934531514368)
    
-   Day 4 - July 10 | [Tokenization & Vectorization time trials](https://www.linkedin.com/feed/update/urn:li:activity:6422632133264703488)
+   Day 4 - July 10 | [Tokenization & Vectorization time trials](https://www.linkedin.com/feed/update/urn:li:activity:6422632133264703488) | [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/Bag%20of%20Words/TimeTrial.py)
      
 Day 5 - July 11 | [Stemming and Lemmatizing with CountVectorizer, TfidfVectorizer, and HashingVectorizer](https://www.linkedin.com/feed/update/urn:li:activity:6422967354082230272)
 
