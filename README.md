@@ -41,3 +41,5 @@ Day 8 - July 14 | []()
 * Producing Production Quality code
 * How tokenized data is used for ML algorithms
 * Use of predeveloped vocabularies like i2b2
+* Hypertools
+  - Visualizing high dimensional data: https://hypertools.readthedocs.io/en/latest/
