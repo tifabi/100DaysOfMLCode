@@ -5,8 +5,8 @@ The creation of this repository was inspired by [Siraj Raval's challenge](https:
 I nervously accepted this challenge in addition to working full time and taking 6 hours of graduate courseowrk in the 2018 summer semester. I will use this repository to store code, jupyter notebook examples, and thought processes. 
 
 ## Topics Explored:
-Day 1 |
-Day 2 |
+Day 1)
+Day 2)
 
 ## List of Topics to Explore:
 
