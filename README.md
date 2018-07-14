@@ -15,7 +15,7 @@ I nervously accepted this challenge in addition to working full time and taking 
      
 Day 5 - July 11 | [Stemming and Lemmatizing with CountVectorizer, TfidfVectorizer, and HashingVectorizer](https://www.linkedin.com/feed/update/urn:li:activity:6422967354082230272) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/Bag%20of%20Words/Stem-Lemm_CountVec-Tfid-HashVec)
 
-Day 6 - July 12 | [Development of visualization pipeline for ML](https://www.linkedin.com/feed/update/urn:li:activity:6423344745891790848)
+Day 6 - July 12 | [Development of visualization pipeline for ML](https://www.linkedin.com/feed/update/urn:li:activity:6423344745891790848) -> [CODE](https://github.com/tifabi/DataViz/blob/master/FinalProject/ML_Visualization.ipynb)
 
 Day 7 - July 13 | [Big Data Visualization with Datashader](https://www.linkedin.com/feed/update/urn:li:activity:6423638989181325312)
 
