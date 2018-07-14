@@ -40,6 +40,7 @@ Day 8 - July 14 | []()
   - adjust threshold & critical thresholds
 * Producing Production Quality code
 * How tokenized data is used for ML algorithms
-* Use of predeveloped vocabularies like i2b2
+* Use of predeveloped vocabularies 
+  - [i2b2](https://www.i2b2.org/NLP/DataSets/Main.php)
 * Hypertools
   - Visualizing high dimensional data: https://hypertools.readthedocs.io/en/latest/
