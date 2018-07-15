@@ -21,6 +21,8 @@ Day 7 - July 13 | [Big Data Visualization with Datashader](https://www.linkedin.
 
 Day 8 - July 14 | [t-SNE and Datashader Failure](https://www.linkedin.com/feed/update/urn:li:activity:6424014404353822720) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/Visualization/t-SNE_datashader.ipynb)
 
+Day 9 - July 15 | [Getting started with Gene Project](https://www.linkedin.com/feed/update/urn:li:activity:6424254176481538048)
+
 ## List of Topics to Explore:
 
 * PCA on Genetic Data - Gene Expression
