@@ -1,10 +1,13 @@
-This folder contains a project demontrating the analysis of gene expression using quantitative techniques such as 
+Gene function can be uncovered by examining when and where gene expression occurs. Different quantification methods are needed to gain this insight.
+
+
+This folder contains a project demonstrating the analysis of gene expression using quantitative techniques such as 
 Principal Component Analysis (PCA). The goals of this project are:
 * Explore and Explain how to spot "bad" genetic data.
   * Compare several independent data sets.
   * Gene level vs probeset level
 * Explore genetic algorithms.
-* Methods for interpretting and using PCA results.
+* Methods for interpreting and using PCA results.
   * Create PCA visual for each data set, analyze independently, then create overlay for each
 * A comparisson between analysis methods in R and in Python.
   * princomp vs prcomp in R
