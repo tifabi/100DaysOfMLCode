@@ -22,6 +22,7 @@ Gene Expression Data](http://math.usu.edu/jrstevens/stat5570/2.4.Visualization.p
 6. [Introduction to Genetic Algorithm & their application in data science](https://www.analyticsvidhya.com/blog/2017/07/introduction-to-genetic-algorithm/)
 7. [Recommended Data Repositories](https://www.nature.com/sdata/policies/repositories)
 8. [RefEx, a reference gene expression dataset as a web tool for the functional analysis of genes](https://www.nature.com/articles/sdata2017105)
+9. [GEO2R How To](https://www.ncbi.nlm.nih.gov/geo/info/geo2r.html#video)
 
 
 ## Data Sources
