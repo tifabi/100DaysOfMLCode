@@ -21,7 +21,7 @@ Day 7 - July 13 | [Big Data Visualization with Datashader](https://www.linkedin.
 
 Day 8 - July 14 | [t-SNE and Datashader Failure](https://www.linkedin.com/feed/update/urn:li:activity:6424014404353822720) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/Visualization/t-SNE_datashader.ipynb)
 
-Day 9 - July 15 | [Getting started with Gene Project](https://www.linkedin.com/feed/update/urn:li:activity:6424254176481538048) 
+Day 9 - July 15 | [Gene Expression - Getting Started](https://www.linkedin.com/feed/update/urn:li:activity:6424254176481538048) 
 -> [FOLDER](https://github.com/tifabi/100DaysOfMLCode/tree/master/Genetic_Expression)
 
 Day 10 - July 16 | [Gene Expression - Reading in Data](https://www.linkedin.com/feed/update/urn:li:activity:6424601497304068096)
