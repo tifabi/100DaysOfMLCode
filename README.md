@@ -24,6 +24,10 @@ Day 8 - July 14 | [t-SNE and Datashader Failure](https://www.linkedin.com/feed/u
 Day 9 - July 15 | [Getting started with Gene Project](https://www.linkedin.com/feed/update/urn:li:activity:6424254176481538048) 
 -> [FOLDER](https://github.com/tifabi/100DaysOfMLCode/tree/master/Genetic_Expression)
 
+Day 10 - July 16 | [Gene Expression - Reading in Data](https://www.linkedin.com/feed/update/urn:li:activity:6424601497304068096)
+
+Day 11 - July 17 | [Gene Expression - Preprocessing & Boxplot](https://www.linkedin.com/feed/update/urn:li:activity:6425206445993656320)
+
 ## List of Topics to Explore:
 
 * PCA on Genetic Data - Gene Expression
