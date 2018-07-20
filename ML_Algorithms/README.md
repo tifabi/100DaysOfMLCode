@@ -1,61 +1,63 @@
 # Machine Learning Algorithms
 
+*The What, When, and Why of Machine Learning Algorithms*
+
 This folder seeks thoroughly explain and simplify the following machine learning algorithms: 
--       Conditional Random Fields
+*       __Conditional Random Fields__
 
-*       Gaussian Process
-        * Test
+*       __Gaussian Process__
+        ** Test
 
-*       Gradient Boosted Trees
+*       __Gradient Boosted Trees__
 
-*       Elasticsearch
+*       __Elasticsearch__
 
-*       Hidden Markov Models
+*       __Hidden Markov Models__
 
-*       Hierarchical Clustering
+*       __Hierarchical Clustering__
 
-*       Information Retrieval Algorithms
+*       __Information Retrieval Algorithms__
 
-*       K-Means
+*       __K-Means__
 
-*       K Nearest Neighbors
+*       __K Nearest Neighbors__
 
-*       Kalman Filter
+*       __Kalman Filter__
 
-*       Latent Dirichlet Allocation
+*       __Latent Dirichlet Allocation__
 
-*       Latent Semantic Indexing
+*       __Latent Semantic Indexing__
 
-*       Linear Regression
+*       __Linear Regression__
 
-*       Logistic Regression
+*       __Logistic Regression__
 
-*       Markov Process
+*       __Markov Process__
 
-*       Maximum Entropy Markov Models
+*       __Maximum Entropy Markov Models__
 
-*       Mixture Models
+*       __Mixture Models__
 
-*       Monte Carlo Simulation
+*       __Monte Carlo Simulation__
 
-*       Multinomial Logistic Regression
+*       __Multinomial Logistic Regression__
 
-*       Natural Language Processing
+*       __Natural Language Processing__
 
-*       Neural Networks
+*       __Neural Networks__
 
-*       Random Forests
+*       __Random Forests__
 
-*       Random Walk
+*       __Random Walk__
 
-*       Restricted Boltzmann Machine
+*       __Restricted Boltzmann Machine__
 
-*       Smith-Waterman Alignment
+*       __Smith-Waterman Alignment__
 
-*       SVD, A-SVD, SVD++, HOSVD
+*       __SVD, A-SVD, SVD++, HOSVD__
 
-*       SVM, one class-SVM
+*       __SVM, one class-SVM__
 
-*       Spectral Clustering
+*       __Spectral Clustering__
 
 *       Vector Space Mode
