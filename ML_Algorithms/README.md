@@ -1,6 +1,6 @@
-# Machine Learning Algorithms
+# Models and Approaches
 
-*The What, When, and Why of Machine Learning Algorithms*
+*The What, When, and Why*
 
 This folder seeks thoroughly explain and simplify the following machine learning algorithms: 
 *       __Conditional Random Fields__
