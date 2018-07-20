@@ -25,42 +25,42 @@ This folder seeks thoroughly explain and simplify the following machine learning
 
 * __K Nearest Neighbors__
 
-*       __Kalman Filter__
+*       Kalman Filter
 
-*       __Latent Dirichlet Allocation__
+*       Latent Dirichlet Allocation
 
-*       __Latent Semantic Indexing__
+*       Latent Semantic Indexing
 
-*       __Linear Regression__
+*       Linear Regression
 
-*       __Logistic Regression__
+*       Logistic Regression
 
-*       __Markov Process__
+*       Markov Process
 
-*       __Maximum Entropy Markov Models__
+*       Maximum Entropy Markov Models
 
-*       __Mixture Models__
+*       Mixture Models
 
-*       __Monte Carlo Simulation__
+*       Monte Carlo Simulation
 
-*       __Multinomial Logistic Regression__
+*       Multinomial Logistic Regression
 
-*       __Natural Language Processing__
+*       Natural Language Processing
 
-*       __Neural Networks__
+*       Neural Networks
 
-*       __Random Forests__
+*       Random Forests
 
-*       __Random Walk__
+*       Random Walk
 
-*       __Restricted Boltzmann Machine__
+*       Restricted Boltzmann Machine
 
-*       __Smith-Waterman Alignment__
+*       Smith-Waterman Alignment
 
-*       __SVD, A-SVD, SVD++, HOSVD__
+*       SVD, A-SVD, SVD++, HOSVD
 
-*       __SVM, one class-SVM__
+*       SVM, one class-SVM
 
-*       __Spectral Clustering__
+*       Spectral Clustering
 
 *       Vector Space Mode
