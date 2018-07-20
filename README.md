@@ -28,6 +28,12 @@ Day 10 - July 16 | [Gene Expression - Reading in Data](https://www.linkedin.com/
 
 Day 11 - July 17 | [Gene Expression - Preprocessing & Boxplot](https://www.linkedin.com/feed/update/urn:li:activity:6425206445993656320)
 
+Day 12 - July 18 | [Intro to Data Splitting](https://www.linkedin.com/feed/update/urn:li:activity:6425553088924385280) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/tree/master/Splitting%20Data)
+
+Day 13 - July 19 | [Text Relationships with spaCy](https://www.linkedin.com/feed/update/urn:li:activity:6425862162333339648) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/Bag%20of%20Words/BagOfWords.ipynb)
+
+Day 14 - July 20 | []()
+
 ## List of Topics to Explore:
 
 * PCA on Genetic Data - Gene Expression
@@ -51,3 +57,4 @@ Day 11 - July 17 | [Gene Expression - Preprocessing & Boxplot](https://www.linke
   - [i2b2](https://www.i2b2.org/NLP/DataSets/Main.php)
 * Hypertools
   - Visualizing high dimensional data: https://hypertools.readthedocs.io/en/latest/
+* MongoDB with Neo4j and Orient
