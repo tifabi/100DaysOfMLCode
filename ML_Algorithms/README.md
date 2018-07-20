@@ -1,9 +1,10 @@
 # Machine Learning Algorithms
 
 This folder seeks thoroughly explain and simplify the following machine learning algorithms: 
-        Conditional Random Fields
+-       Conditional Random Fields
 
 *       Gaussian Process
+        * Test
 
 *       Gradient Boosted Trees
 
