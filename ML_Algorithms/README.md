@@ -4,23 +4,26 @@
 
 This folder seeks thoroughly explain and simplify the following machine learning algorithms: 
 * __Conditional Random Fields__
+| What        | When           | Why  |
+| ------------- |:-------------:| -----:|
+| test      | test | test |
 
 * __Gaussian Process__
-         Test
 
-*       __Gradient Boosted Trees__
 
-*       __Elasticsearch__
+* __Gradient Boosted Trees__
 
-*       __Hidden Markov Models__
+* __Elasticsearch__
 
-*       __Hierarchical Clustering__
+* __Hidden Markov Models__
 
-*       __Information Retrieval Algorithms__
+* __Hierarchical Clustering__
 
-*       __K-Means__
+* __Information Retrieval Algorithms__
 
-*       __K Nearest Neighbors__
+* __K-Means__
+
+* __K Nearest Neighbors__
 
 *       __Kalman Filter__
 
