@@ -6,7 +6,7 @@ This folder seeks thoroughly explain and simplify the following machine learning
 * __Conditional Random Fields__
 
 * __Gaussian Process__
-    *     Test
+         Test
 
 *       __Gradient Boosted Trees__
 
