@@ -4,6 +4,7 @@
 
 This folder seeks thoroughly explain and simplify the following machine learning algorithms: 
 * __Conditional Random Fields__
+
 | What        | When           | Why  |
 | ------------- |:-------------:| -----:|
 | test      | test | test |
