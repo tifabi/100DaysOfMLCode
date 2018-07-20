@@ -3,7 +3,7 @@
 *The What, When, and Why*
 
 This folder seeks thoroughly explain and simplify the following machine learning algorithms: 
-*       __Conditional Random Fields__
+       __Conditional Random Fields__
 
 *       __Gaussian Process__
         ** Test
