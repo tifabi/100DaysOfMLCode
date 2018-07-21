@@ -10,6 +10,7 @@ This folder seeks thoroughly explain and simplify the following machine learning
 | test      | test | test |
 
 * __Gaussian Process__
+    * [Gaussian Process for Dummies](http://katbailey.github.io/post/gaussian-processes-for-dummies/)
 
 
 * __Gradient Boosted Trees__
