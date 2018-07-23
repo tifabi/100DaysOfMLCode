@@ -32,11 +32,11 @@ Day 12 - July 18 | [Intro to Data Splitting](https://www.linkedin.com/feed/updat
 
 Day 13 - July 19 | [Text Relationships with spaCy](https://www.linkedin.com/feed/update/urn:li:activity:6425862162333339648) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/Bag%20of%20Words/BagOfWords.ipynb)
 
-Day 14 - July 20 | []()
+Day 14 - July 20 | [Gene Expression -]()
 
-Day 15 - July 21 | []()
+Day 15 - July 21 | [Trial-and-error]()
 
-Day 16 - July 22 | []()
+Day 16 - July 22 | [Trial-and-error Data Splitting Implimentation]()
 
 Day 17 - July 23 | [NMF]() -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/NMF/NMF.ipynb)
 
