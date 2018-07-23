@@ -34,6 +34,13 @@ Day 13 - July 19 | [Text Relationships with spaCy](https://www.linkedin.com/feed
 
 Day 14 - July 20 | []()
 
+Day 15 - July 21 | []()
+
+Day 16 - July 22 | []()
+
+Day 17 - July 23 | [NMF]() -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/NMF/NMF.ipynb)
+
+
 ## List of Topics to Explore:
 
 * PCA on Genetic Data - Gene Expression
