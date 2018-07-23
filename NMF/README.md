@@ -1,4 +1,4 @@
-Non-negative Matrix Factorization (NMF) is a method of dimensionality reductionm feature selection, and clustering. It has many applications in text mining, image analysis, bioinformatics, and even audio signal processing.
+Non-negative Matrix Factorization (NMF) is a method of dimensionality reduction, feature selection, and clustering. It has many applications in text mining, image analysis, bioinformatics, and even audio signal processing.
 
 ### References
 1. [What is NMF and what can you do with it?](https://iksinc.online/2016/03/21/what-is-nmf-and-what-can-you-do-with-it/)
