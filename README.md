@@ -7,7 +7,7 @@ I nervously accepted this challenge in addition to working full time and taking 
 ## Topics Explored:
    Day 1 - July 7   | [Principal Component Analysis (PCA) and explained variance ratio](https://www.linkedin.com/feed/update/urn:li:activity:6421471671445647360)
    
-   Day 2 - July 8   | [SparsePCA](https://www.linkedin.com/feed/update/urn:li:activity:6421890522410950656)
+   Day 2 - July 8   | [SparsePCA](https://www.linkedin.com/feed/update/urn:li:activity:6421890522410950656) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/tree/master/Dimensionality_Reduction/PCA)
    
    Day 3 - July 9   | [Bag of Words](https://www.linkedin.com/feed/update/urn:li:activity:6422292934531514368)
    
