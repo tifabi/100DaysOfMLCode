@@ -32,13 +32,13 @@ Day 12 - July 18 | [Intro to Data Splitting](https://www.linkedin.com/feed/updat
 
 Day 13 - July 19 | [Text Relationships with spaCy](https://www.linkedin.com/feed/update/urn:li:activity:6425862162333339648) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/Bag%20of%20Words/BagOfWords.ipynb)
 
-Day 14 - July 20 | [Gene Expression -]()
+Day 14 - July 20 | [Gene Expression - Cytoscape and Orange3](https://www.linkedin.com/feed/update/urn:li:activity:6426162789521326081)
 
-Day 15 - July 21 | [Trial-and-error]()
+Day 15 - July 21 | [Trial-and-error Data Splitting Research](https://www.linkedin.com/feed/update/urn:li:activity:6426460202446385152)
 
-Day 16 - July 22 | [Trial-and-error Data Splitting Implimentation]()
+Day 16 - July 22 | [Trial-and-error Data Splitting Implimentation](https://www.linkedin.com/feed/update/urn:li:activity:6426797754525188096) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/Splitting%20Data/Splitting_Data.ipynb)
 
-Day 17 - July 23 | [NMF]() -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/NMF/NMF.ipynb)
+Day 17 - July 23 | [NMF](https://www.linkedin.com/feed/update/urn:li:activity:6427246036275728384) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/NMF/NMF.ipynb)
 
 
 ## List of Topics to Explore:
@@ -65,3 +65,4 @@ Day 17 - July 23 | [NMF]() -> [CODE](https://github.com/tifabi/100DaysOfMLCode/b
 * Hypertools
   - Visualizing high dimensional data: https://hypertools.readthedocs.io/en/latest/
 * MongoDB with Neo4j and Orient
+* AutoML
