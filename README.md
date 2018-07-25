@@ -40,6 +40,10 @@ Day 16 - July 22 | [Trial-and-error Data Splitting Implimentation](https://www.l
 
 Day 17 - July 23 | [NMF](https://www.linkedin.com/feed/update/urn:li:activity:6427246036275728384) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/Dimensionality_Reduction/NMF.ipynb)
 
+Day 18 - July 24 | [RFE](https://www.linkedin.com/feed/update/urn:li:activity:6427656306747801600) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/Dimensionality_Reduction/RFE.ipynb)
+
+Day 19 - July 25 | [Exploring Variable Replacement](https://www.linkedin.com/feed/update/urn:li:activity:6427910193555795968)
+
 
 ## List of Topics to Explore:
 
