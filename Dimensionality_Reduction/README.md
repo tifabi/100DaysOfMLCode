@@ -13,3 +13,12 @@ Recursive Feature Elimination (RFE) is a method of reducing features with the us
 #### References
 1. [Recursive Feature Elimination with Scikit Learn](https://medium.com/@aneesha/recursive-feature-elimination-with-scikit-learn-3a2cbdf23fb7)
 2. [Scikit Feature Selection](http://scikit-learn.org/stable/modules/feature_selection.html#rfe)
+
+
+## Dimensionality Reduction Pipeline
+
+#### References
+1. http://scikit-learn.org/stable/auto_examples/plot_compare_reduction.html#sphx-glr-auto-examples-plot-compare-reduction-py
+2. http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.FeatureUnion.html
+3. https://www.youtube.com/watch?v=Om_TFrFGotQ
+4. https://github.com/ageron/handson-ml/blob/master/02_end_to_end_machine_learning_project.ipynb
