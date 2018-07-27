@@ -44,6 +44,8 @@ Day 18 - July 24 | [RFE](https://www.linkedin.com/feed/update/urn:li:activity:64
 
 Day 19 - July 25 | [Exploring Variable Replacement](https://www.linkedin.com/feed/update/urn:li:activity:6427910193555795968)
 
+Day 20 - July 26 | [Pipelines - Introduction](https://www.linkedin.com/feed/update/urn:li:activity:6428424916881719296)
+
 
 ## List of Topics to Explore:
 
