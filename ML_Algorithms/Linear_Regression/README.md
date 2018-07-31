@@ -27,9 +27,9 @@ negative r tells us that as one variable gets big the other gets small, and posi
 A regression line allows us to predict y based on the relationship between X and y. 
 Two common definitions of "prediction":
 
-    1. "Predict the output value (Y) for new observations given their input values (X)" [4](https://www.stat.berkeley.edu/~aldous/157/Papers/shmueli.pdf)
+   1. "Predict the output value (Y) for new observations given their input values (X)" [4](https://www.stat.berkeley.edu/~aldous/157/Papers/shmueli.pdf)
 
-    2. "When the time of interest occurs after the last available
+   2. "When the time of interest occurs after the last available
 measurement" [3](http://d1.amobbs.com/bbs_upload782111/files_40/ourdev_647440XLQQDR.pdf)
 
 
