@@ -40,5 +40,6 @@ This is only really helpful if X and y are linearly related quantitative variabl
 
 ### Additional References
 [Introduction to Linear Regression Analysis](https://media.wiley.com/product_data/excerpt/10/04705428/0470542810-66.pdf)
+
 [An Introduction to Statistical Inference and Its Applications](https://shyam.nitk.ac.in/Books/PTA%20Books/Trosset-ProbTheory-n-statistical_inference.pdf)
 
