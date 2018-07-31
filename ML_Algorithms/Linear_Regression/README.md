@@ -23,6 +23,7 @@ A regression line allows us to predict y based on the relationship between X and
 
 ---
 
+###BreakDown with References
 
 r is the correlation coefficient and represents the strength of the linear relationship between x and y [2](https://onlinecourses.science.psu.edu/stat501/node/256/)
 
