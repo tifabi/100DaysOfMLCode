@@ -1,4 +1,4 @@
-Linear Regression by Ordinary Least Squares in R: 
+## Linear Regression by Ordinary Least Squares in R: 
 ```R
 X <- c(2,3,4,3,2,9,6,7,2,9)
 y <- c(12,54,23,45,23,12,34,23,55,23)
@@ -48,4 +48,12 @@ so we can see that if there is no correlation between X and y then r ~0, slope ~
 [Introduction to Linear Regression Analysis](https://media.wiley.com/product_data/excerpt/10/04705428/0470542810-66.pdf)
 
 [An Introduction to Statistical Inference and Its Applications](https://shyam.nitk.ac.in/Books/PTA%20Books/Trosset-ProbTheory-n-statistical_inference.pdf)
+
+
+## Linear Regression By Gradient Descent
+
+* Learning rate - small = slow convergece, large = might not converge
+
+Define converge 
+
 
