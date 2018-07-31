@@ -1,4 +1,4 @@
-## Linear Regression by Ordinary Least Squares in R: 
+## Linear Regression in R: 
 ```R
 X <- c(2,3,4,3,2,9,6,7,2,9)
 y <- c(12,54,23,45,23,12,34,23,55,23)
@@ -16,6 +16,9 @@ predict(mod, X <- 5)
 > 1 
 > 29.65187
 ```
+
+Linear Regression 
+
 
 r is the correlation coefficient and represents the strength of the linear relationship between x and y [2](https://onlinecourses.science.psu.edu/stat501/node/256/)
 
