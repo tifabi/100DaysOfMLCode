@@ -31,11 +31,11 @@ Regression models are used for description, causal inference, or prediction y ba
 
 ### BreakDown with References
 
-r is the correlation coefficient and represents the strength of the linear relationship between x and y [2](https://onlinecourses.science.psu.edu/stat501/node/256/)
+r is the correlation coefficient and represents the strength of the linear relationship between x and y [(2)](https://onlinecourses.science.psu.edu/stat501/node/256/)
 
 An r of 0 means here that the two variables are not linearly correlated, 
 
-   * r quantifies the strength of a linear relationship [1](https://onlinecourses.science.psu.edu/stat501/node/258/), not just that there is a relationship.
+   * r quantifies the strength of a linear relationship [(1)](https://onlinecourses.science.psu.edu/stat501/node/258/), not just that there is a relationship.
 
 negative r tells us that as one variable gets big the other gets small, and positive r says that both variables get bigger together. 
 
@@ -56,7 +56,7 @@ This is only really helpful if X and y are linearly related quantitative variabl
     * Not just related
 
 
-so we can see that if there is no correlation between X and y then r ~0, slope ~ 0, and the prediction of y can only be assumed to be mean(y). This is why we want to check for independence. 
+so we can see that if there is no correlation between X and y then r ~0, slope ~ 0, and the prediction of y can only be assumed to be mean(y).
 
 
 ### Additional References
