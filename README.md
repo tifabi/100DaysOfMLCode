@@ -46,15 +46,15 @@ Day 19 - July 25 | [Exploring Variable Replacement](https://www.linkedin.com/fee
 
 Day 20 - July 26 | [Pipelines - Introduction](https://www.linkedin.com/feed/update/urn:li:activity:6428424916881719296)
 
-Day 21 - July 27 | []()
+Day 21 - July 27 | [A list of 10,000 dictionaries](https://www.linkedin.com/feed/update/urn:li:activity:6428672001640054785) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/Bag%20of%20Words/ListOfTenThousandDicts.ipynb)
 
-Day 22 - July 28 | []()
+Day 22 - July 28 | [Linear Regression - Simple in R](https://www.linkedin.com/feed/update/urn:li:activity:6429060927965982720) -> [Folder](https://github.com/tifabi/100DaysOfMLCode/tree/master/ML_Algorithms/Linear_Regression) 
 
-Day 23 - July 29 | [Linear Regression - Simple in R]()
+Day 23 - July 29 | [Data Visualization, Dimensionality Reduction, Feature Selection, and a hand full of models.](https://www.linkedin.com/feed/update/urn:li:activity:6429545301387866112) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/Visualization/Final_Project-Fabianac_Tiffany.ipynb)
 
-Day 24 - July 30 | [Linear Regression - Continue to draft description]()
+Day 24 - July 30 | [Linear Regression - Continue to draft description](https://www.linkedin.com/feed/update/urn:li:activity:6429895929226158080) -> [Folder](https://github.com/tifabi/100DaysOfMLCode/tree/master/ML_Algorithms/Linear_Regression)
 
-Day 25 - July 31 | [Linear Regression - Simple in Python]()
+Day 25 - July 31 | [Linear Regression - Simple in Python](https://www.linkedin.com/feed/update/urn:li:activity:6430073981306494976) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/ML_Algorithms/Linear_Regression/Simple_LinearRegression.ipynb)
 
 
 ## List of Topics to Explore:
