@@ -46,6 +46,16 @@ Day 19 - July 25 | [Exploring Variable Replacement](https://www.linkedin.com/fee
 
 Day 20 - July 26 | [Pipelines - Introduction](https://www.linkedin.com/feed/update/urn:li:activity:6428424916881719296)
 
+Day 21 - July 27 | []()
+
+Day 22 - July 28 | []()
+
+Day 23 - July 29 | [Linear Regression - Simple in R]()
+
+Day 24 - July 30 | [Linear Regression - Continue to draft description]()
+
+Day 25 - July 31 | [Linear Regression - Simple in Python]()
+
 
 ## List of Topics to Explore:
 
