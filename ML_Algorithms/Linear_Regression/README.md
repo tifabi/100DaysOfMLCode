@@ -17,9 +17,13 @@ predict(mod, X <- 5)
 > 29.65187
 ```
 
-r, the correlation coefficient, represents the strength of the linear relationship between x and y. Does it tell us how closely related two variables are? Not exactly. An r of 0 means that two variables are not linearly correlated, so ice cream sales and murder rates could be correlated, but not related - there is no causal relationship here. Negative r tells us that as one variable gets big the other gets small, and positive r says that both variables get bigger together.
+r, the correlation coefficient, represents the strength of the linear relationship between x and y. Does it tell us how closely related two variables are? No. An r of 0 means that two variables are not linearly correlated, negative r tells us that as one variable gets big the other gets small, and positive r says that both variables get bigger together.
 
-Regression models are used for description, causal inference, or for prediction y based on the relationship between X and y. Each of these uses depends on the model selection process. This is only really helpful if X and y are linearly related quantitative variables - again, not just related. We can see that if there is no correlation between X and y then r ~0, slope ~ 0, and the prediction of y can only be assumed to be mean(y). Which demonstrates one of the major assumptions in producing a linear regression model: independence.
+A relationship may still exist if r is 0, but be perfect quadratic or distorted by outliers. Diagnostics of the residuals can ensure the validity of the linear form and is a mandatory process for every kind of statistical modeling.
+
+Correlation does not imply causation. A common example of this: ice cream sales and murder rates were once found to be correlated, this does not imply that ice cream sales and rate of murder are related or that one caused the other.
+
+Regression models are used for description, causal inference, or for prediction y based on the relationship between X and y. Each of these uses depends on the model selection process. This is only really helpful if X and y are linearly related quantitative variables - again, not just related. We can see that if there is no correlation between X and y then r ~0, slope ~0, and the prediction of y can only be assumed to be mean(y). This is why we check for one of the major assumptions of linear regression model: independence between the residuals.
 
 ---
 
