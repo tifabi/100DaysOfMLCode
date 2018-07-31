@@ -20,6 +20,7 @@ predict(mod, X <- 5)
 r is the correlation coefficient and represents the strength of the linear relationship between x and y [2](https://onlinecourses.science.psu.edu/stat501/node/256/)
 
 An r of 0 means here that the two variables are not linearly correlated, 
+
     * Frequent Error: r quantifies the strength of a linear relationship [1](https://onlinecourses.science.psu.edu/stat501/node/258/)
 
 negative r tells us that as one variable gets big the other gets small, and positive r says that both variables get bigger together. 
