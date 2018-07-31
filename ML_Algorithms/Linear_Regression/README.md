@@ -17,10 +17,10 @@ predict(mod, X <- 5)
 > 29.65187
 ```
 
-r is the correlation coefficient and represents the strength of the linear relationship between x and y (2)[https://onlinecourses.science.psu.edu/stat501/node/256/]
+r is the correlation coefficient and represents the strength of the linear relationship between x and y [2](https://onlinecourses.science.psu.edu/stat501/node/256/)
 
 An r of 0 means here that the two variables are not linearly uncorrelated, 
-* Frequent Error: r quantifies the strength of a linear relationship (1)[https://onlinecourses.science.psu.edu/stat501/node/258/] 
+* Frequent Error: r quantifies the strength of a linear relationship [1](https://onlinecourses.science.psu.edu/stat501/node/258/)
 
 negative r tells us that as one variable gets big the other gets small, and positive r says that both variables get bigger together. 
 
@@ -29,9 +29,9 @@ Two common definitions of "prediction":
 1. A guess about a random or unknown value
 
 2. "When the time of interest occurs after the last available
-measurement" (3)[http://d1.amobbs.com/bbs_upload782111/files_40/ourdev_647440XLQQDR.pdf] <- also 
+measurement" [3](http://d1.amobbs.com/bbs_upload782111/files_40/ourdev_647440XLQQDR.pdf) <- also 
 
-* (Explanation vs. Prediction)[https://www.stat.berkeley.edu/~aldous/157/Papers/shmueli.pdf]
+* [Explanation vs. Prediction](https://www.stat.berkeley.edu/~aldous/157/Papers/shmueli.pdf)
 * Prediction vs Determination?
 
 
@@ -39,6 +39,6 @@ This is only really helpful if X and y are linearly related quantitative variabl
 
 
 ### Additional References
-(Introduction to Linear Regression Analysis)[https://media.wiley.com/product_data/excerpt/10/04705428/0470542810-66.pdf]
-(An Introduction to Statistical Inference and Its Applications)[https://shyam.nitk.ac.in/Books/PTA%20Books/Trosset-ProbTheory-n-statistical_inference.pdf]
+[Introduction to Linear Regression Analysis](https://media.wiley.com/product_data/excerpt/10/04705428/0470542810-66.pdf)
+[An Introduction to Statistical Inference and Its Applications](https://shyam.nitk.ac.in/Books/PTA%20Books/Trosset-ProbTheory-n-statistical_inference.pdf)
 
