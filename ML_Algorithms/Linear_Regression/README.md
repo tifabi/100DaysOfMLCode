@@ -1,4 +1,4 @@
-## Linear Regression - A Guide: 
+## Simple Linear Regression: 
 ```R
 # In R:
 
