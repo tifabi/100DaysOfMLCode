@@ -17,7 +17,7 @@ predict(mod, X <- 5)
 > 29.65187
 ```
 
-r, the correlation coefficient, represents the strength of the linear relationship between x and y. Does it tell us how closely related two variables are? No. An r of 0 means that two variables are not linearly correlated (there is no linear relationship). Negative r tells us that as one variable gets big the other gets small, and positive r says that both variables get bigger together.
+r, the correlation coefficient, represents the strength of the linear relationship between x and y [(2)](https://onlinecourses.science.psu.edu/stat501/node/256/). Does it tell us how closely related two variables are? No. An r of 0 means that two variables are not linearly correlated (there is no linear relationship). Negative r tells us that as one variable gets big the other gets small, and positive r says that both variables get bigger together.
 
 A relationship may still exist if r is 0, but be perfect quadratic or distorted by outliers. Diagnostics of the residuals can ensure the validity of the linear form and is a mandatory process for every kind of statistical modeling.
 
@@ -31,13 +31,7 @@ Regression models are used for description, causal inference, or prediction y ba
 
 ### BreakDown with References
 
-r is the correlation coefficient and represents the strength of the linear relationship between x and y [(2)](https://onlinecourses.science.psu.edu/stat501/node/256/)
-
-An r of 0 means here that the two variables are not linearly correlated, 
-
    * r quantifies the strength of a linear relationship [(1)](https://onlinecourses.science.psu.edu/stat501/node/258/), not just that there is a relationship.
-
-negative r tells us that as one variable gets big the other gets small, and positive r says that both variables get bigger together. 
 
 A regression line allows us to predict y based on the relationship between X and y. 
 Two common definitions of "prediction":
@@ -50,13 +44,6 @@ measurement" [3](http://d1.amobbs.com/bbs_upload782111/files_40/ourdev_647440XLQ
 
     * Prediction vs Determination?
     * Extrapolation v Interpolation v "Prediction"
-
-
-This is only really helpful if X and y are linearly related quantitative variables, 
-    * Not just related
-
-
-so we can see that if there is no correlation between X and y then r ~0, slope ~ 0, and the prediction of y can only be assumed to be mean(y).
 
 
 ### Additional References
