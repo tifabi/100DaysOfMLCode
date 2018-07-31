@@ -1,5 +1,7 @@
-## Linear Regression in R: 
+## Linear Regression - A Guide: 
 ```R
+# In R:
+
 X <- c(2,3,4,3,2,9,6,7,2,9)
 y <- c(12,54,23,45,23,12,34,23,55,23)
 r = cor(X, y)
