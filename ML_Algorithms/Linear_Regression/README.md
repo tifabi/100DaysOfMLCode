@@ -35,6 +35,7 @@ measurement" [3](http://d1.amobbs.com/bbs_upload782111/files_40/ourdev_647440XLQ
 
 
     * Prediction vs Determination?
+    * Extrapolation v Interpolation v "Prediction"
 
 
 This is only really helpful if X and y are linearly related quantitative variables, 
