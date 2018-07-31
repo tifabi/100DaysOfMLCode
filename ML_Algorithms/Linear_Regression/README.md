@@ -17,7 +17,11 @@ predict(mod, X <- 5)
 > 29.65187
 ```
 
-Linear Regression 
+r is the correlation coefficient and represents how closely related two variables are. An r of 0 means here that the two variables are not linearly correlated, negative r tells us that as one variable gets big the other gets small, and positive r says that both variables get bigger together.
+
+A regression line allows us to predict y based on the relationship between X and y. This is only really helpful if X and y are linearly related quantitative variables, so we can see that if there is no correlation between X and y then r ~0, slope ~ 0, and the prediction of y can only be assumed to be mean(y). This is why we want to check for independence.
+
+---
 
 
 r is the correlation coefficient and represents the strength of the linear relationship between x and y [2](https://onlinecourses.science.psu.edu/stat501/node/256/)
