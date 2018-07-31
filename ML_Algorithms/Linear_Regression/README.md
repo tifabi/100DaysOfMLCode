@@ -35,7 +35,11 @@ measurement" [3](http://d1.amobbs.com/bbs_upload782111/files_40/ourdev_647440XLQ
 * Prediction vs Determination?
 
 
-This is only really helpful if X and y are linearly related quantitative variables, so we can see that if there is no correlation between X and y then r ~0, slope ~ 0, and the prediction of y can only be assumed to be mean(y). This is why we want to check for independence. 
+This is only really helpful if X and y are linearly related quantitative variables, 
+* 
+
+
+so we can see that if there is no correlation between X and y then r ~0, slope ~ 0, and the prediction of y can only be assumed to be mean(y). This is why we want to check for independence. 
 
 
 ### Additional References
