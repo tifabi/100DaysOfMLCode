@@ -17,7 +17,7 @@ predict(mod, X <- 5)
 > 29.65187
 ```
 
-r, the correlation coefficient, represents the strength of the linear relationship between x and y. Does it tell us how closely related two variables are? No. An r of 0 means that two variables are not linearly correlated, negative r tells us that as one variable gets big the other gets small, and positive r says that both variables get bigger together.
+r, the correlation coefficient, represents the strength of the linear relationship between x and y. Does it tell us how closely related two variables are? No. An r of 0 means that two variables are not linearly correlated (there is no linear relationship). Negative r tells us that as one variable gets big the other gets small, and positive r says that both variables get bigger together.
 
 A relationship may still exist if r is 0, but be perfect quadratic or distorted by outliers. Diagnostics of the residuals can ensure the validity of the linear form and is a mandatory process for every kind of statistical modeling.
 
