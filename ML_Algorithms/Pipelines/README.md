@@ -1,4 +1,5 @@
-##Pipeline
+
+## Pipeline
 
 #### References
 1. [Selecting dimensionality reduction with Pipeline and GridSearchCV](http://scikit-learn.org/stable/auto_examples/plot_compare_reduction.html#sphx-glr-auto-examples-plot-compare-reduction-py)
