@@ -56,6 +56,15 @@ Day 24 - July 30 | [Linear Regression - Continue to draft description](https://w
 
 Day 25 - July 31 | [Linear Regression - Simple in Python](https://www.linkedin.com/feed/update/urn:li:activity:6430073981306494976) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/ML_Algorithms/Linear_Regression/Simple_LinearRegression.ipynb)
 
+Day 26 - Aug 1  | [Start of Pipeline Example](https://www.linkedin.com/feed/update/urn:li:activity:6430430990107234305) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/ML_Algorithms/Pipelines/Pipeline_Example.ipynb)
+
+Day 27 - Aug 2  | [Ridge Regression for Pipeline Example](https://www.linkedin.com/feed/update/urn:li:activity:6430799507843268609) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/ML_Algorithms/Pipelines/Pipeline_Example.ipynb)
+
+Day 28 - Aug 3  | [Select missing value column(s) with Pipeline](https://www.linkedin.com/feed/update/urn:li:activity:6431124151020376064) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/ML_Algorithms/Pipelines/Pipeline_Example.ipynb)
+
+Day 29 - Aug 4  | []()
+
+
 
 ## List of Topics to Explore:
 
