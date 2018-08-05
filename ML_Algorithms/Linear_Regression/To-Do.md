@@ -2,14 +2,14 @@
 
 ## Define Simple Linear Regression (SLR):
 1.	Define R-squared
-    a.	Calculation – Interpretation - Use
-    b.	Can R-squared be negative?
+  * Calculation – Interpretation - Use
+  * Can R-squared be negative?
 2.	Define modeling, refer: https://www.stat.berkeley.edu/~aldous/157/Papers/shmueli.pdf
-    a.	Define Explanatory modeling
-      i.	Should SLR be used for Explanatory modeling
-    b.	Define Predictive modeling
-      i.	Define prediction - Should SLR be used for prediction, why or why not?
-      ii.	Should SLR be used for Predictive modeling
+  *	Define Explanatory modeling
+    * Should SLR be used for Explanatory modeling
+  * Define Predictive modeling
+     * Define prediction - Should SLR be used for prediction, why or why not?
+     * Should SLR be used for Predictive modeling
 c.	Define Descriptive modeling
 i.	Should SLR be used for Descriptive modeling
 3.	Define assumptions:
