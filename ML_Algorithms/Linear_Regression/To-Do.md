@@ -4,6 +4,9 @@
 ### Define R-squared
 1. Calculation – Interpretation - Use
 2. Can R-squared be negative?
+### Define the slope
+1. How is it related to the standard deviations fo y and x
+2. How is it related to r
 ### Define modeling, refer: https://www.stat.berkeley.edu/~aldous/157/Papers/shmueli.pdf
 1. Define Explanatory modeling
    * Should SLR be used for Explanatory modeling
