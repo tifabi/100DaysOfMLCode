@@ -40,6 +40,19 @@ __INSERT R-squared definition__
 
 __INSERT definition of slope__
 
-This is only really helpful if X and y are linearly related quantitative variables - again, not just related. We can see that if there is no correlation between X and y then r ~0, slope ~0, and the prediction of y can only be assumed to be mean(y). This is why we check for one of the major assumptions of linear regression model: independence of the error. __INSERT Definition of the error__
+Simple Linear Regression is only really helpful if X and y are linearly related quantitative __DEFINE "quantitative"__ variables - again, not just related. We can see that if there is no correlation between X and y then r ~0, slope ~0, and the prediction of y can only be assumed to be mean(y). This is why we check for one of the major assumptions of the linear regression model: linearity.
 
-Regression models are used for description, causal inference, or prediction y based on the relationship between X and y [(4)](https://www.stat.berkeley.edu/~aldous/157/Papers/shmueli.pdf). Each of these uses depends on the model selection process. 
+__INSERT Definition of linearity__
+
+__INSERT Definition Independence of errors & define the error__
+
+__INSERT Definition Homoskedasticity__
+
+__INSERT Definition Normality of errors & define the error__
+
+
+Regression models are used for description, causal inference, or prediction y based on the relationship between X and y [(4)](https://www.stat.berkeley.edu/~aldous/157/Papers/shmueli.pdf). Each of these uses depends on the model selection process. __INSERT Defintions for Modeling__
+
+__Compare Simple Linear Regression to other types - weighted, gradient descent__
+
+__Include Example from literature__
