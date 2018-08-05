@@ -36,7 +36,7 @@
         * Normal Q-Q plot
         * Histogram?
     * R code to check
-4.	Compare Simple Linear Regression with Linear Regression by Gradient Descent
-    *	What is Linear Regression by Gradient Descent
+### Compare Simple Linear Regression with Linear Regression by Gradient Descent
+1. What is Linear Regression by Gradient Descent
     *	Similarities – Differences 
       * Calculations, assumptions, uses
