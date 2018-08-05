@@ -38,6 +38,8 @@ Correlation does not imply causation. A common example of this: ice cream sales 
 
 __INSERT R-squared definition__
 
+__INSERT definition of slope__
+
 This is only really helpful if X and y are linearly related quantitative variables - again, not just related. We can see that if there is no correlation between X and y then r ~0, slope ~0, and the prediction of y can only be assumed to be mean(y). This is why we check for one of the major assumptions of linear regression model: independence of the error. __INSERT Definition of the error__
 
 Regression models are used for description, causal inference, or prediction y based on the relationship between X and y [(4)](https://www.stat.berkeley.edu/~aldous/157/Papers/shmueli.pdf). Each of these uses depends on the model selection process. 
