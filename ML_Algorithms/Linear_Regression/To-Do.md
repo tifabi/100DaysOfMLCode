@@ -5,9 +5,9 @@
     * Calculation – Interpretation - Use
     * Can R-squared be negative?
 2.	Define modeling, refer: https://www.stat.berkeley.edu/~aldous/157/Papers/shmueli.pdf
-  *	Define Explanatory modeling
-    * Should SLR be used for Explanatory modeling
-  * Define Predictive modeling
+    *	Define Explanatory modeling
+     * Should SLR be used for Explanatory modeling
+    * Define Predictive modeling
      * Define prediction - Should SLR be used for prediction, why or why not?
      * Should SLR be used for Predictive modeling
 c.	Define Descriptive modeling
