@@ -36,7 +36,11 @@ A relationship may still exist if r is 0, but be perfect quadratic or distorted 
 
 Correlation does not imply causation. A common example of this: ice cream sales and murder rates were once found to be correlated, this does not imply that ice cream sales and rate of murder are related or that one caused the other.
 
-__INSERT R-squared definition__
+__R-squared__
+
+One of the most common metric when evaluating linear regression models is the R-squared value, or put more scarily, "the coefficient of determination." The R-squared value captures how well our model does at explaining the variance seen in the dependent variable (y) using our independent variable (x). The higher the R-squared value the better our model does at explaining our observations. Continuing from our earlier example, we can calculate 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=SS_{tot}=\sum&space;_i(y_i-\bar&space;y)^2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?SS_{tot}=\sum&space;_i(y_i-\bar&space;y)^2" title="SS_{tot}=\sum _i(y_i-\bar y)^2" /></a>
 
 __INSERT definition of slope__
 
