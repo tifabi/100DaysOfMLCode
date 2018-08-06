@@ -56,13 +56,17 @@ Day 24 - July 30 | [Linear Regression - Continue to draft description](https://w
 
 Day 25 - July 31 | [Linear Regression - Simple in Python](https://www.linkedin.com/feed/update/urn:li:activity:6430073981306494976) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/ML_Algorithms/Linear_Regression/Simple_LinearRegression.ipynb)
 
-Day 26 - Aug 1  | [Start of Pipeline Example](https://www.linkedin.com/feed/update/urn:li:activity:6430430990107234305) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/ML_Algorithms/Pipelines/Pipeline_Example.ipynb)
+Day 26 - Aug 1  | [Pipeline - Start of Pipeline Example](https://www.linkedin.com/feed/update/urn:li:activity:6430430990107234305) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/ML_Algorithms/Pipelines/Pipeline_Example.ipynb)
 
-Day 27 - Aug 2  | [Ridge Regression for Pipeline Example](https://www.linkedin.com/feed/update/urn:li:activity:6430799507843268609) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/ML_Algorithms/Pipelines/Pipeline_Example.ipynb)
+Day 27 - Aug 2  | [Pipeline - Ridge Regression for Pipeline Example](https://www.linkedin.com/feed/update/urn:li:activity:6430799507843268609) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/ML_Algorithms/Pipelines/Pipeline_Example.ipynb)
 
-Day 28 - Aug 3  | [Select missing value column(s) with Pipeline](https://www.linkedin.com/feed/update/urn:li:activity:6431124151020376064) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/ML_Algorithms/Pipelines/Pipeline_Example.ipynb)
+Day 28 - Aug 3  | [Pipeline - Select missing value column(s) with Pipeline](https://www.linkedin.com/feed/update/urn:li:activity:6431124151020376064) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/ML_Algorithms/Pipelines/Pipeline_Example.ipynb)
 
-Day 29 - Aug 4  | []()
+Day 29 - Aug 4  | [Pipeline - Flexibility for selecting columns with missing values](https://www.linkedin.com/feed/update/urn:li:activity:6431124151020376064) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/ML_Algorithms/Pipelines/Pipeline_Example.ipynb)
+
+Day 30 - Aug 5  | [Pipeline - Pipeline to compare methods of handling missing values](https://www.linkedin.com/feed/update/urn:li:activity:6431532099420901376) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/ML_Algorithms/Pipelines/Pipeline_Example.ipynb)
+
+Day 31 - Aug 6  | [Pipeline - Identify categorical columns and convert to dummy](https://www.linkedin.com/feed/update/urn:li:activity:6431998787039870976) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/ML_Algorithms/Pipelines/Pipeline_Example.ipynb)
 
 
 
