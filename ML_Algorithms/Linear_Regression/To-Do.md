@@ -1,7 +1,7 @@
 # Simple Linear Regression To-Do
 
 ## Define Simple Linear Regression (SLR):
-### Define R-squared
+### Define R-squared - *Anthony
 1. Calculation – Interpretation - Use
 2. Can R-squared be negative?
 ### Define the slope - * Tiffany
