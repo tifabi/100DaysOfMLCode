@@ -60,15 +60,13 @@ Day 26 - Aug 1  | [Pipeline - Start of Pipeline Example](https://www.linkedin.co
 
 Day 27 - Aug 2  | [Pipeline - Ridge Regression for Pipeline Example](https://www.linkedin.com/feed/update/urn:li:activity:6430799507843268609) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/ML_Algorithms/Pipelines/Pipeline_Example.ipynb)
 
-Day 28 - Aug 3  | [Pipeline - Select missing value column(s) with Pipeline](https://www.linkedin.com/feed/update/urn:li:activity:6431124151020376064) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/ML_Algorithms/Pipelines/Pipeline_Example.ipynb)
+Day 28 - Aug 3  | [Pipeline - Flexibility for selecting columns with missing values](https://www.linkedin.com/feed/update/urn:li:activity:6431124151020376064) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/ML_Algorithms/Pipelines/Pipeline_Example.ipynb)
 
-Day 29 - Aug 4  | [Pipeline - Flexibility for selecting columns with missing values](https://www.linkedin.com/feed/update/urn:li:activity:6431124151020376064) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/ML_Algorithms/Pipelines/Pipeline_Example.ipynb)
+Day 29 - Aug 4  | [Pipeline - Pipeline to compare methods of handling missing values](https://www.linkedin.com/feed/update/urn:li:activity:6431532099420901376) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/ML_Algorithms/Pipelines/Pipeline_Example.ipynb)
 
-Day 30 - Aug 5  | [Pipeline - Pipeline to compare methods of handling missing values](https://www.linkedin.com/feed/update/urn:li:activity:6431532099420901376) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/ML_Algorithms/Pipelines/Pipeline_Example.ipynb)
+Day 30 - Aug 5  | [Pipeline - Identify categorical columns and convert to dummy](https://www.linkedin.com/feed/update/urn:li:activity:6431998787039870976) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/ML_Algorithms/Pipelines/Pipeline_Example.ipynb)
 
-Day 31 - Aug 6  | [Pipeline - Identify categorical columns and convert to dummy](https://www.linkedin.com/feed/update/urn:li:activity:6431998787039870976) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/ML_Algorithms/Pipelines/Pipeline_Example.ipynb)
-
-
+Day 31 - Aug 6  | [Pipeline - Custom Imputer using sklearn linear_model](https://www.linkedin.com/feed/update/urn:li:activity:6432403424549101568) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/ML_Algorithms/Pipelines/Pipeline_Example.ipynb)
 
 ## List of Topics to Explore:
 
