@@ -1,33 +1,41 @@
-## Simple Linear Regression: 
-```R
-# In R:
+# Purpose
+While learning simple linear regression and having numerous discussions inside and outside of class, it became clear that there are many misconceptions, misunderstandings, and overall clarity needed to accurately apply and interpret simple linear regression. 
+Since starting this mini-project, I have learned so much about simple linear regression from clarifying my understanding to interpreting applications. I wanted to extend this opportunity to collaborate and build a guide with others who are interested in building their own knowledge, joining a network excited about the possibilities, and creating a resource for both beginners and novices. 
+# Timeline
+Goal is to complete the bulk of work before the start of the Fall semester (Aug 20), peer review / revise / submission process would stretch over the Fall semester, and an overall target publication date by commencement day: Dec 15, 2018. 
+# Outcome
+Publish to a reputable website following peer review from at least one IU statistics professor.
+# Overview
+•	Create an easy-to-follow guide to demonstrate the modeling process for applying simple linear regression (Ordinary Least Squares- OLS). 
+•	Highlight the entire process involved in modeling with linear regression: goal definition, study design, data collection, scientific use and interpretation. 
+•	Make each definition easy and clear enough for a non-statistician to understand without oversimplifying (think explaining simple linear regression to Grandma). 
+•	Address common misunderstanding or misinterpretations. 
+# Project Description
+Open to suggested format, but currently following a similar format to this paper: https://www.stat.berkeley.edu/~aldous/157/Papers/shmueli.pdf
+1.	Define Simple Linear Regression 
+a.	Describe differences between Simple Linear Regression by OLS and other types of regression such as linear regression by gradient descent, time series. 
+b.	Identify and point out common misconceptions. This can come up through the process of oversimplifying, for example:
+Oversimplification: The correlation coefficient represents the relationship between x and y.
+Clarification: The correlation coefficient, represents the strength and direction (positive or negative) of the linear relationship between x and y.
+c.	Explore criticisms of using simple linear regression for the different modeling techniques, for example:
+Should simple linear regression be used for prediction, why or why not?
+Can R-square be negative? Many say it can, but many say it can’t.
+d.	Draft description here: https://github.com/tifabi/100DaysOfMLCode/tree/master/ML_Algorithms/Linear_Regression 
+2.	Define Modeling and what types of modeling linear regression can be used for (explanatory, predictive, descriptive).
+3.	Define assumptions and provide some methods for checking assumptions using python and R. 
+4.	Provide clear examples for calculating simple linear regression in python and R. This is already done in R, and partially in python (need to add notes and the use of packages to calculate), example of calculating in python here: https://github.com/tifabi/100DaysOfMLCode/blob/master/ML_Algorithms/Linear_Regression/Simple_LinearRegression.ipynb
+5.	Explore some examples from journal articles / published peer reviewed experiments applying simple linear regression.
+# Potential Areas of Contribution
+1.	Working on definitions, examples include:
+a.	Describing explanatory modeling in detail
+b.	Defining R-square simple enough for the non-statistician
+2.	Straightforward code with easy-to-follow comments in python and R, other languages could be included to demonstrate calculations from scratch and available packages/libraries. A comparison of simple linear regression coded in various languages could be an addition, but the minimum will be python and R. 
+a.	Calculating simple linear regression
+b.	Checking assumptions
+3.	Exploring published uses to provide examples of application and interpretation.
 
-X <- c(2,3,4,3,2,9,6,7,2,9)
-y <- c(12,54,23,45,23,12,34,23,55,23)
-r = cor(X, y)
-slope = r * sd(y) / sd(X)
-intercept = mean(y) - slope * mean(X)
-intercept + slope * 5
 
-> [1] 29.65187
 
-OR with lm:
-mod = lm(y~X)
-predict(mod, X <- 5)
-
-> 1 
-> 29.65187
-```
-
-r, the correlation coefficient, represents the strength of the linear relationship between x and y [(2)](https://onlinecourses.science.psu.edu/stat501/node/256/). Does it tell us how closely related two variables are? No. An r of 0 means that two variables are not linearly correlated (there is no linear relationship). Negative r tells us that as one variable gets big the other gets small, and positive r says that both variables get bigger together.
-
-A relationship may still exist if r is 0, but be perfect quadratic or distorted by outliers. Diagnostics of the residuals can ensure the validity of the linear form and is a mandatory process for every kind of statistical modeling.
-
-Correlation does not imply causation. A common example of this: ice cream sales and murder rates were once found to be correlated, this does not imply that ice cream sales and rate of murder are related or that one caused the other.
-
-This is only really helpful if X and y are linearly related quantitative variables - again, not just related. We can see that if there is no correlation between X and y then r ~0, slope ~0, and the prediction of y can only be assumed to be mean(y). This is why we check for one of the major assumptions of linear regression model: independence of the error.
-
-Regression models are used for description, causal inference, or prediction y based on the relationship between X and y [(4)](https://www.stat.berkeley.edu/~aldous/157/Papers/shmueli.pdf). Each of these uses depends on the model selection process. 
 
 ---
 
