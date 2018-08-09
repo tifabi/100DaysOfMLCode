@@ -68,6 +68,10 @@ Day 30 - Aug 5  | [Pipeline - Identify categorical columns and convert to dummy]
 
 Day 31 - Aug 6  | [Pipeline - Custom Imputer using sklearn linear_model](https://www.linkedin.com/feed/update/urn:li:activity:6432403424549101568) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/ML_Algorithms/Pipelines/Pipeline_Example.ipynb)
 
+Day 32 - Aug 7  | [kNN - add to Pipeline & normalizing](https://www.linkedin.com/feed/update/urn:li:activity:6432795343078850560) -> [CODE](https://github.com/tifabi/100DaysOfMLCode/blob/master/ML_Algorithms/Pipelines/Pipeline_Example.ipynb)
+
+Day 33 - Aug 8  | [Pipeline - Researching topics to come](https://www.linkedin.com/feed/update/urn:li:activity:6433140195381510144)
+
 ## List of Topics to Explore:
 
 * PCA on Genetic Data - Gene Expression
