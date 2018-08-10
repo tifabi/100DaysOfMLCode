@@ -15,3 +15,4 @@
 11. [Multiple Imputation for Nonresponse in Surveys](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9780470316696.fmatter)
 12. [Comparison of methods for handling missing data on immunohistochemical markers in survival analysis of breast cancer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3049587/)
 13. [Time-to-recur measurements in breast cancer microscopic disease instances](https://www.researchgate.net/publication/290300778_Time-to-recur_measurements_in_breast_cancer_microscopic_disease_instances)
+14. [The Bias-Variance Tradeoff](http://www.inf.ed.ac.uk/teaching/courses/mlsc/Notes/Lecture4/BiasVariance.pdf)
