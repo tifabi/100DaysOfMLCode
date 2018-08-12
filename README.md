@@ -72,6 +72,14 @@ Day 32 - Aug 7  | [kNN - add to Pipeline & normalizing](https://www.linkedin.com
 
 Day 33 - Aug 8  | [Pipeline - Researching topics to come](https://www.linkedin.com/feed/update/urn:li:activity:6433140195381510144)
 
+Day 34 - Aug 9  | [What's great about bias?](https://www.linkedin.com/feed/update/urn:li:activity:6433510854955663360)
+
+Day 35 - Aug 10  | [Bias-Variance decomposition - rounding error & elimination](https://www.linkedin.com/feed/update/urn:li:activity:6433838838946287616)
+
+Day 36 - Aug 11  | [Bias-Variance decomposition from scratch in Python](https://www.linkedin.com/feed/update/urn:li:activity:6434196274639101952)
+
+Day 37 - Aug 12  | []()
+
 ## List of Topics to Explore:
 
 * PCA on Genetic Data - Gene Expression
