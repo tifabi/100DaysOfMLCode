@@ -78,7 +78,7 @@ Day 35 - Aug 10  | [Bias-Variance decomposition - rounding error & elimination](
 
 Day 36 - Aug 11  | [Bias-Variance decomposition from scratch in Python](https://www.linkedin.com/feed/update/urn:li:activity:6434196274639101952)
 
-Day 37 - Aug 12  | No Post - contunued work on Bias-Variance decomposition
+Day 37 - Aug 12  | No Post - continued work on Bias-Variance decomposition
 
 Day 38 - Aug 13  | [Bias-Variance decomposition working example](https://www.linkedin.com/feed/update/urn:li:activity:6434987613861531648)
 
