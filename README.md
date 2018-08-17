@@ -78,11 +78,17 @@ Day 35 - Aug 10  | [Bias-Variance decomposition - rounding error & elimination](
 
 Day 36 - Aug 11  | [Bias-Variance decomposition from scratch in Python](https://www.linkedin.com/feed/update/urn:li:activity:6434196274639101952)
 
-Day 37 - Aug 12  | No Post - continued work on Bias-Variance decomposition
+Day 37 - Aug 12  | [Continued work on Bias-Variance decomposition](https://www.linkedin.com/feed/update/urn:li:activity:6434196274639101952)
 
 Day 38 - Aug 13  | [Bias-Variance decomposition working example](https://www.linkedin.com/feed/update/urn:li:activity:6434987613861531648)
 
-Day 39 - Aug 14  | []()
+Day 39 - Aug 14  | [Scatterplots for Collinearity](https://www.linkedin.com/feed/update/urn:li:activity:6435325477048639488)
+
+Day 40 - Aug 15  | [ML Work for Client - not shared publicly]
+
+Day 41 - Aug 16  | [Correlation Matrix for Collinearity](https://www.linkedin.com/feed/update/urn:li:activity:6436045974854000640)
+
+Day 42 - Aug 17  | []()
 
 ## List of Topics to Explore:
 
