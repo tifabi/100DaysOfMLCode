@@ -84,7 +84,7 @@ Day 38 - Aug 13  | [Bias-Variance decomposition working example](https://www.lin
 
 Day 39 - Aug 14  | [Scatterplots for Collinearity](https://www.linkedin.com/feed/update/urn:li:activity:6435325477048639488)
 
-Day 40 - Aug 15  | [ML Work for Client - not shared publicly]
+Day 40 - Aug 15  | [ML Work for Client - not shared publicly]()
 
 Day 41 - Aug 16  | [Correlation Matrix for Collinearity](https://www.linkedin.com/feed/update/urn:li:activity:6436045974854000640)
 
