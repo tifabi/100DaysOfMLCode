@@ -90,13 +90,13 @@ Day 41 - Aug 16  | [Correlation Matrix for Collinearity](https://www.linkedin.co
 
 Day 42 - Aug 17  | [ML Work for Client - not shared publicly]()
 
-Day 42 - Aug 18  | [Eigen Values for MultiCollinearity](https://www.linkedin.com/feed/update/urn:li:activity:6436045974854000640)
+Day 43 - Aug 18  | [Eigen Values for MultiCollinearity](https://www.linkedin.com/feed/update/urn:li:activity:6436045974854000640)
 
-Day 42 - Aug 19  | [Eigen Values & Vectors for MultiCollinearity](https://www.linkedin.com/feed/update/urn:li:activity:6436045974854000640)
+Day 44 - Aug 19  | [Eigen Values & Vectors for MultiCollinearity](https://www.linkedin.com/feed/update/urn:li:activity:6436045974854000640)
 
-Day 42 - Aug 20  | [ML Work for Client - not shared publicly]()
+Day 45 - Aug 20  | [ML Work for Client - not shared publicly]()
 
-Day 42 - Aug 21  | [NLP with Regression - Expoloring the literature](https://www.linkedin.com/feed/update/urn:li:activity:6437836551455068160)
+Day 46 - Aug 21  | [NLP with Regression - Expoloring the literature](https://www.linkedin.com/feed/update/urn:li:activity:6437836551455068160)
 
 ## List of Topics to Explore:
 
