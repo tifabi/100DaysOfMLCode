@@ -88,15 +88,23 @@ Day 40 - Aug 15  | [ML Work for Client - not shared publicly]()
 
 Day 41 - Aug 16  | [Correlation Matrix for Collinearity](https://www.linkedin.com/feed/update/urn:li:activity:6436045974854000640)
 
-Day 42 - Aug 17  | [ML Work for Client - not shared publicly]()
+Day 42 - Aug 17  | [ML Work for Client - not shared publicly - Ontology from web scraping]()
 
 Day 43 - Aug 18  | [Eigen Values for MultiCollinearity](https://www.linkedin.com/feed/update/urn:li:activity:6436045974854000640)
 
 Day 44 - Aug 19  | [Eigen Values & Vectors for MultiCollinearity](https://www.linkedin.com/feed/update/urn:li:activity:6436045974854000640)
 
-Day 45 - Aug 20  | [ML Work for Client - not shared publicly]()
+Day 45 - Aug 20  | [ML Work for Client - not shared publicly - Word frequencies from PDFs]()
 
 Day 46 - Aug 21  | [NLP with Regression - Expoloring the literature](https://www.linkedin.com/feed/update/urn:li:activity:6437836551455068160)
+
+Day 47 - Aug 22  | [ML Work for Client - not shared publicly - Text mining with Google Chips]()
+
+Day 48 - Aug 23  | []()
+
+Day 49 - Aug 24  | []()
+
+Day 50 - Aug 25  | []()
 
 ## List of Topics to Explore:
 
